@@ -1,8 +1,6 @@
 package com.pluralsight.adapter;
 
 import com.pluralsight.adapter.entity.EmployeeDb;
-import com.pluralsight.adapter.entity.IEmployee;
-import com.pluralsight.adapter.entity.legacy.EmployeeLdap;
 
 import java.util.ArrayList;
 import java.util.List;
