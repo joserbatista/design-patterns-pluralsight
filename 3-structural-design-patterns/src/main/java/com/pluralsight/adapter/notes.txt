@@ -1,0 +1,2 @@
+EmployeeLdap employeeFromLdap = new EmployeeLdap("chewie", "Solo", "Han", "han@solo.com");
+EmployeeCsv employeeFromCSV = new EmployeeCsv("567,Sherlock,Holmes,sherlock@holmes.com");
